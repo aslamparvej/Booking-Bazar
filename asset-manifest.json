@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Booking-Bazar/static/css/main.1ec78efc.css",
+    "main.js": "/Booking-Bazar/static/js/main.83c70e8d.js",
+    "index.html": "/Booking-Bazar/index.html",
+    "main.1ec78efc.css.map": "/Booking-Bazar/static/css/main.1ec78efc.css.map",
+    "main.83c70e8d.js.map": "/Booking-Bazar/static/js/main.83c70e8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ec78efc.css",
+    "static/js/main.83c70e8d.js"
+  ]
+}
